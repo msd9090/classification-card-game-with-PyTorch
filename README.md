@@ -64,3 +64,4 @@ prediction = predict_image("path/to/your/card.jpg")
 print(f"The model identifies this as: {prediction}")
 📊 Results
 The notebook includes automated visualization of training history (loss and accuracy) and displays test set predictions to verify model robustness across various lighting and card angles.
+#computervision #pytorch #deeplearning #cnn #transferlearning #imageclassification
