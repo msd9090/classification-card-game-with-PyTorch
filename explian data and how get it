@@ -1,0 +1,54 @@
+Markdown
+
+# 🃏 Playing Card Classifier AI 🤖
+
+A simple and powerful tool that uses Artificial Intelligence to recognize playing cards.
+
+---
+
+## 📍 Quick Links
+| 📁 Project Source | 📊 Dataset Link | 🚀 Demo |
+| :--- | :--- | :--- |
+| [🖥️ Github Repo](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME) | [📂 Kaggle Dataset](https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification) | [✨ Predict Now](#-how-to-use) |
+
+---
+
+## 🧐 What is this?
+This project is an **AI Brain** trained to look at images of playing cards and identify them instantly. 
+* **Input:** A photo of a card.
+* **Output:** The name of the card (e.g., "Queen of Hearts").
+
+---
+
+## 📊 About the Data
+I used a high-quality dataset from **Kaggle**. Here is what it contains:
+
+| Item | Details |
+| :--- | :--- |
+| **Total Images** | 8,000+ Pictures |
+| **Categories** | 53 (All 52 cards + Joker) |
+| **Image Size** | 224 x 224 pixels |
+| **Source** | [Gerry Piosenka on Kaggle](https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification) |
+
+---
+
+## 🛠 How it Works (Simple Steps)
+1. **The Training:** I showed the AI thousands of card photos so it could learn the differences between "Spades", "Hearts", "Clubs", and "Diamonds".
+2. **The Prediction:** Once trained, you can give it a **new photo** it has never seen, and it will guess the card.
+3. **The Technology:** Built using **Python** 🐍 and **PyTorch** 🔥 (the gold standard for AI).
+
+---
+
+## 🚀 How to Use
+1. **Clone the project:**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+Install requirements:
+
+Bash
+
+pip install -r requirements.txt
+Run the Notebook: Open classification-card-game-with-pytorch.ipynb and press Run All.
+
+🌟 Support
+If you liked this project, please give it a ⭐ on GitHub!
